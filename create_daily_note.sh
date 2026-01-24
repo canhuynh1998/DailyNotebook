@@ -15,7 +15,7 @@ BASE_DIR="Daily Notes"
 YEAR_DIR="$BASE_DIR/$CURRENT_YEAR"
 MONTH_DIR="$YEAR_DIR/$CURRENT_MONTH"
 NOTE_FILE="$MONTH_DIR/$CURRENT_DATE.md"
-TEMPLATE_FILE="DailyNoteTemplates.md"
+TEMPLATE_FILE="Daily_Session_Template.md"
 
 # Check if template exists
 if [ ! -f "$TEMPLATE_FILE" ]; then
