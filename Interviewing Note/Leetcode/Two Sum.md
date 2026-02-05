@@ -1,9 +1,8 @@
 # Question Name: Two Sum
 
 # Pattern 
-- input: int[], int
-- output: int[]
-- 
+- Hash Map
+
 # Explaination - Question
 - What happens if there is not solution?
 - Are the input valid?
