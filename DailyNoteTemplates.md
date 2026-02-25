@@ -1,17 +1,12 @@
 # Daily Note: <Add the current date>
 ### Study Schedule
-- 2 cycles of Pomodoro everyday: Study + Space Repetition
-- Monday: Distributed Systems + Software Engineering Books
-- Tuesday: ML/AI + Software Engineering Blogs
-- Wednesday: Software Engineering Books + Distributed Systems
-- Thursday: Software Engineering Blogs + ML/AI
-- Friday: System Designs (2 cycles)
-  - NOTES:
-    - Follow the hellointerview framework
-    - Every space repetition cycle, add some depth into the answer
-- Saturday: Leetcode (2 cycles)
-  - NOTES: 1 cycle of trying, 1 cycle of studying the solution
-- Sunday: Categorize the questions/study notes
+- Monday: Leetcode
+- Tuesday: Distributed Systems
+- Wednesday: ML
+- Thursday: Distributed Systems
+- Friday: ML
+- Saturday: Software Engineering Book + White Paper + Project
+- Sunday: Leetcode + Project
 
 ## Table of Content
 
