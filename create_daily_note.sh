@@ -11,7 +11,7 @@ CURRENT_MONTH=$(date +"%m")
 FORMATTED_DATE=$(date +"%B %d, %Y")
 
 # Define paths
-BASE_DIR="Daily Notes"
+BASE_DIR="DailyNotes"
 YEAR_DIR="$BASE_DIR/$CURRENT_YEAR"
 MONTH_DIR="$YEAR_DIR/$CURRENT_MONTH"
 NOTE_FILE="$MONTH_DIR/$CURRENT_DATE.md"

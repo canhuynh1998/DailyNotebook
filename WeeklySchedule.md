@@ -1,0 +1,7 @@
+- `Monday`: Software Engineering Book + Leetcode
+- `Tuesday`: Distributed Systems + Reading
+- `Wednesday`: ML/AI + Leetcode
+- `Thursday`: System Designs + Reading
+- `Friday`: Software Engineering Book
+- `Saturday`: ML/AI + Leetcode
+- `Sunday`: CS Fundamental 
